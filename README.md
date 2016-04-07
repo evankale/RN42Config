@@ -9,4 +9,4 @@ See a demo video here:
 https://youtu.be/UJaqHnPR-XE
 
 - An Arduino dev tool.
-- Establishes a oftware serial communication channel on digtal pins D2 and D3 at the baud rate of 9600.
+- Establishes a software serial communication channel on digtal pins D2 and D3 at the baud rate of 9600.
